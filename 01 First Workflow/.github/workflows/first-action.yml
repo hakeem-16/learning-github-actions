@@ -1,4 +1,4 @@
-name: 01 First Workflow - Hello World
+name: First Workflow
 on: workflow_dispatch
 jobs:
   first-job:

@@ -3,7 +3,7 @@ on:
   push:
     paths:
       - '02 Starting Project/**'
-      - '.github/workflows/02-starting-project-test.yml'
+      - '.github/workflows/02-starting-project-deployment.yml'
   workflow_dispatch:
 defaults:
   run:
